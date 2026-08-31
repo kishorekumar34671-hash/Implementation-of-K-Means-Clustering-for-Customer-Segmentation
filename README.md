@@ -87,6 +87,29 @@ print(kmeans.cluster_centers_)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 <img width="1920" height="1080" alt="Screenshot 2026-08-31 203625" src="https://github.com/user-attachments/assets/67d3bca1-92ef-48dc-b179-f72668da2ba5" />
 
