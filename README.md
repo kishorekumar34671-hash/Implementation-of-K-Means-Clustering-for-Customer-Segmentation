@@ -8,6 +8,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
+
+
+
 1. Load the customer dataset and select the relevant features for customer segmentation.
 
 2. Choose the number of clusters (K) and initialize K cluster centroids randomly.
@@ -19,6 +23,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 ```
+
+
+
+
 
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: KISHORE KUMAR B
@@ -75,7 +83,23 @@ print("\nCluster Centers:")
 print(kmeans.cluster_centers_)
 
 ```
+
+
+
+
 ## Output:
 <img width="1920" height="1080" alt="Screenshot 2026-08-31 203625" src="https://github.com/user-attachments/assets/67d3bca1-92ef-48dc-b179-f72668da2ba5" />
+
+
+
+
+
+
+
+
+
+
+
+
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
